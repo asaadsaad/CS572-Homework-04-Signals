@@ -50,3 +50,6 @@ export const data = {
   * Use `signal` to hold the recipes state.
   * Use `computed` to compute the displayed recipe from the currently selected index.
 6. Use `slice` pipe to truncate the card title.
+
+### Optional
+Research and write a summary for how Change Detection works in Angular, highlight the role of Zones, how can we improve its scope, and how can we create Zoneless applications.
